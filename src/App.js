@@ -99,7 +99,6 @@ function App() {
         {weather.temperature !== null ? `${weather.temperature}°C` : 'Loading...'}
       </div>
       
-      
     </div>
   );
 }
